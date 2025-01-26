@@ -1,2 +1,2 @@
-# learning-paloco.github.io
+# paloco.github.io
 View the [website](https://learning-paloco.github.io/) here.
