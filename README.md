@@ -1,2 +1,2 @@
-# synloco.github.io
-View the [website](https://synloco.github.io/) here.
+# learning-paloco.github.io
+View the [website](https://learning-paloco.github.io/) here.
